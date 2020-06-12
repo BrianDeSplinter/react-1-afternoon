@@ -13,7 +13,7 @@ class FilterObject extends Component{
                 {
                     name: 'Brittney',
                     relation: 'Wife',
-                    haircolor: 'red'
+                    hairColor: 'red'
                 },
                 {
                     name: 'Evan',
